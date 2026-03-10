@@ -1,0 +1,46 @@
+📊 Netflix User Behavior Analysis Dashboard
+
+The goal of this project was to explore Netflix viewing data and uncover meaningful insights about user watching habits, genre popularity, binge-watching patterns, and engagement trends.
+Using Microsoft Excel, I analyzed a dataset containing user viewing details such as titles watched, genres, watch duration, viewing dates, and ratings. By applying pivot tables, charts, conditional formatting, and slicers, I transformed the raw data into an interactive dashboard that clearly presents key trends and patterns.
+This project demonstrates how Excel can be effectively used for data analysis, visualization, and storytelling, helping to identify which genres are most popular, which users watch the most content, and when binge-watching activity tends to occur.
+Overall, the dashboard provides a simple yet powerful way to understand streaming behavior and user engagement on Netflix.
+
+📁 Project Structure
+
+Netflix Data
+Raw dataset containing user viewing information such as titles, genres, watch duration, viewing dates, and ratings.
+
+Pivots
+Pivot tables used to summarize and analyze viewing patterns by user and genre.
+
+Binge Heatmap
+A heatmap-style table built with conditional formatting to highlight daily viewing intensity for each user.
+
+Dashboard
+An interactive Excel dashboard that presents all the key insights and visualizations in a single view.
+
+🎯 Project Objectives
+
+Identify the most popular genres based on watch time
+Analyze user watch hours and viewing frequency
+Detect binge-watching patterns across users and dates
+Compare average ratings across different genres
+
+📊 Key Features
+| Feature                  | Description                                                |
+| ------------------------ | ---------------------------------------------------------- |
+| 🔍 Genre Analysis        | Bar and pie charts showing the most watched genres         |
+| ⏰ Watch Time by User     | Ranking of users based on total viewing hours              |
+| 🔥 Binge Trend           | Line chart showing binge-watching trends over time         |
+| 🌡️ Binge Heatmap        | Conditional formatting highlighting heavy viewing sessions |
+| ⭐ Rating Distribution    | Average ratings categorized by genre                       |
+| 🎛 Interactive Dashboard | One-page dashboard summarizing all insights                |
+
+🧰 Tools & Techniques Used
+
+Microsoft Excel
+Pivot Tables
+Bar Charts & Pie Charts
+Line Charts
+Conditional Formatting
+Slicers for interactivity
